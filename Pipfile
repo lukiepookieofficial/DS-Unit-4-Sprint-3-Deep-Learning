@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow-directml = "==1.15.3.dev200911"
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
+scikit-image = "*"
+ipykernel = "*"
+clean-text = "*"
+
+[requires]
+python_version = "3.7.9"
