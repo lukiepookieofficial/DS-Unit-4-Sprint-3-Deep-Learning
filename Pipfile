@@ -15,6 +15,7 @@ scikit-image = "*"
 clean-text = "*"
 requests = "*"
 spacy = "*"
+h5py = "==2.7.0rc2"
 
 [requires]
 python_version = "3.6"
